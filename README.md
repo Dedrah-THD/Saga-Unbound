@@ -5,6 +5,8 @@
 
 **Valheim's journey, expanded — not replaced.**
 
+> **Saga Unbound 1.0.0 is released.** The supported installation path is **Hexium → Gale Mod Manager**. Install the pack from [Saga Unbound on Hexium](https://valheim.hexium.gg/mods/THD-ThoseHordeDiks/Saga_Unbound) and allow Gale to resolve the required dependencies automatically.
+
 You know the path: wake beneath the stones, survive the Meadows, push into the Black Forest, brave the Swamp, climb the Mountains, cross the Plains, and sail toward whatever waits beyond.
 
 **Saga Unbound asks what happens when that familiar journey becomes something much bigger.**
@@ -87,6 +89,7 @@ Saga Unbound is not intended to trivialize Valheim, replace every vanilla system
 
 ## Community & Support
 
+- **Install / current release:** https://valheim.hexium.gg/mods/THD-ThoseHordeDiks/Saga_Unbound
 - **Discord:** https://discord.gg/sB6Uv7KD9y
 - **Project repository:** https://github.com/Dedrah-THD/Saga-Unbound
 
