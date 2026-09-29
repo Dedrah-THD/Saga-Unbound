@@ -1,5 +1,15 @@
 # Saga Unbound Changelog
 
+## 1.0.1 — Portal Progression Fix
+
+### Fixed
+
+- Corrected portal-tier progression for Black Metal.
+- Black Metal could previously be transported through a portal tier one stage earlier than intended.
+- Updated the Advanced Portals configuration so Black Metal now respects Saga Unbound's intended progression tier.
+
+No dependency versions were changed in this release.
+
 ## 1.0.0 — Initial Public Release
 
 - Initial public release of **Saga Unbound — A THD Valheim RPG Experience**.
